@@ -15,7 +15,7 @@ Esse projeto contém análises de dados exploratória a respeito dos gols marcad
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Etapas](#requisitos-funcionais)
+* [Etapas](#etapas-realizas)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autor](#autor)
