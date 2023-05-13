@@ -43,7 +43,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autor
 
-[Autor](https://github.com/PabloCassio/analise-exploratoria-messi#contributors)
+[Pablo Cassio](https://github.com/PabloCassio)
 
 # Licença
 
