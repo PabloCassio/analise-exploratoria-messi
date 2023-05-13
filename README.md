@@ -43,7 +43,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autor
 
-[Pablo Cassio](https://github.com/PabloCassio)
+   <td align="center"><a href="https://github.com/PabloCassio"><img src="https://avatars.githubusercontent.com/u/82393094?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Cassio</b></sub></a></td>
 
 # Licença
 
