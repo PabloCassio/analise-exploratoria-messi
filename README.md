@@ -1,7 +1,7 @@
 # Análise Exploratória Lionel Messi
 
 
-![Capa do Projeto](https://agenciabrasil.ebc.com.br/esportes/noticia/2023-03/empolgacao-saudita-aumenta-com-anuncio-da-3a-visita-de-messi-ao-pais#)
+![Capa do Projeto](img/messi.jpg)
 
 # Sobre o Projeto
 
