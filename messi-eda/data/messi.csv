@@ -1,5 +1,5 @@
 ,temporada,competicao,rodada_comp,data,local,time,adversario,placar,posicao_campo,minuto,placar_pos_gol,tipo,jogador_assistente
-,04/05,LaLiga,34,01/05/2005,H,FC Barcelona,Albacete Balompie,02:00,CF,90+1,02:00,Chute com o pe esquerdo,Ronaldinho Gaucho
+,04/05,LaLiga,34,01/05/2005,H,FC Barcelona,Albacete Balompie,02:00,CF,90,02:00,Chute com o pe esquerdo,Ronaldinho Gaucho
 ,05/06,UEFA Champions League,Group Stage,02/11/2005,H,FC Barcelona,Panathinaikos Athens,05:00,RW,34,03:00,Chute com o pe esquerdo,
 ,05/06,LaLiga,13,27/11/2005,H,FC Barcelona,Racing Santander,04:01,RW,51,02:00,Chute com o pe esquerdo,Samuel Etoo
 ,05/06,LaLiga,19,15/01/2006,H,FC Barcelona,Athletic Bilbao,02:01,RW,50,02:01,Chute com o pe esquerdo,Mark van Bommel
@@ -14,7 +14,7 @@
 ,06/07,LaLiga,6,15/10/2006,H,FC Barcelona,Sevilla FC,03:01,RW,80,03:01,Chute com o pe direito,Xavi
 ,06/07,LaLiga,26,10/03/2007,H,FC Barcelona,Real Madrid,03:03,RW,11,01:01,Chute com o pe esquerdo,Samuel Etoo
 ,06/07,LaLiga,26,10/03/2007,H,FC Barcelona,Real Madrid,03:03,RW,28,02:02,Chute com o pe esquerdo,
-,06/07,LaLiga,26,10/03/2007,H,FC Barcelona,Real Madrid,03:03,RW,90+1,03:03,Chute com o pe esquerdo,Ronaldinho Gaucho
+,06/07,LaLiga,26,10/03/2007,H,FC Barcelona,Real Madrid,03:03,RW,90,03:03,Chute com o pe esquerdo,Ronaldinho Gaucho
 ,06/07,LaLiga,27,17/03/2007,A,FC Barcelona,Recreativo Huelva,00:04,RW,86,00:04,Chute com o pe esquerdo,
 ,06/07,LaLiga,28,31/03/2007,H,FC Barcelona,Deportivo de La Coruaa,02:01,RW,45,01:00,Chute com o pe esquerdo,Ronaldinho Gaucho
 ,06/07,Copa del Rey,Semi-Finals,18/04/2007,H,FC Barcelona,Getafe CF,05:02,RW,29,02:00,Arrancada,Xavi
@@ -46,7 +46,7 @@
 ,08/09,LaLiga,3,21/09/2008,A,FC Barcelona,Sporting Gijon,01:06,RW,89,01:06,Cabecada,Xavi
 ,08/09,LaLiga,5,27/09/2008,A,FC Barcelona,RCD Espanyol Barcelona,01:02,RW,90,01:02,Penalti,
 ,08/09,UEFA Champions League,Group Stage,01/10/2008,A,FC Barcelona,Shakhtar Donetsk,01:02,RW,87,01:01,Chute com o pe direito,Bojan Krkic
-,08/09,UEFA Champions League,Group Stage,01/10/2008,A,FC Barcelona,Shakhtar Donetsk,01:02,RW,90+2,01:02,Chute com o pe esquerdo,Xavi
+,08/09,UEFA Champions League,Group Stage,01/10/2008,A,FC Barcelona,Shakhtar Donetsk,01:02,RW,90,01:02,Chute com o pe esquerdo,Xavi
 ,08/09,LaLiga,6,04/10/2008,H,FC Barcelona,Atletico de Madrid,06:01,RW,8,03:00,Cobranca de falta,
 ,08/09,UEFA Champions League,Group Stage,22/10/2008,A,FC Barcelona,FC Basel 1893,00:05,CF,4,00:01,Chute com o pe esquerdo,Dani Alves
 ,08/09,LaLiga,9,01/11/2008,A,FC Barcelona,Malaga CF,01:04,RW,19,01:02,Chute com o pe esquerdo,
@@ -55,7 +55,7 @@
 ,08/09,LaLiga,11,16/11/2008,A,FC Barcelona,Recreativo Huelva,00:02,RW,51,00:01,Chute com o pe esquerdo,Xavi
 ,08/09,UEFA Champions League,Group Stage,26/11/2008,A,FC Barcelona,Sporting CP,02:05,RW,49,00:03,Chute com o pe esquerdo,Dani Alves
 ,08/09,LaLiga,13,29/11/2008,A,FC Barcelona,Sevilla FC,00:03,RW,78,00:02,Chute com o pe esquerdo,Xavi
-,08/09,LaLiga,13,29/11/2008,A,FC Barcelona,Sevilla FC,00:03,RW,90+2,00:03,Chute com o pe esquerdo,Aleksandr Hleb
+,08/09,LaLiga,13,29/11/2008,A,FC Barcelona,Sevilla FC,00:03,RW,90,00:03,Chute com o pe esquerdo,Aleksandr Hleb
 ,08/09,LaLiga,15,13/12/2008,H,FC Barcelona,Real Madrid,02:00,RW,89,02:00,Gol em contra ataque,Thierry Henry
 ,08/09,Copa del Rey,Round of 16,06/01/2009,A,FC Barcelona,Atletico de Madrid,01:03,RW,11,00:01,Chute com o pe esquerdo,Dani Alves
 ,08/09,Copa del Rey,Round of 16,06/01/2009,A,FC Barcelona,Atletico de Madrid,01:03,RW,57,00:02,Penalti,
@@ -83,7 +83,7 @@
 ,09/10,Supercopa,final,23/08/2009,H,FC Barcelona,Athletic Bilbao,03:00,RW,68,02:00,Penalti,
 ,09/10,LaLiga,2,12/09/2009,A,FC Barcelona,Getafe CF,00:02,RW,78,00:02,Cabecada,Zlatan Ibrahimovic
 ,09/10,LaLiga,3,19/09/2009,H,FC Barcelona,Atletico de Madrid,05:02,RW,15,02:00,Chute com o pe esquerdo,Xavi
-,09/10,LaLiga,3,19/09/2009,H,FC Barcelona,Atletico de Madrid,05:02,RW,90+3,05:02,Chute com o pe direito,Dani Alves
+,09/10,LaLiga,3,19/09/2009,H,FC Barcelona,Atletico de Madrid,05:02,RW,90,05:02,Chute com o pe direito,Dani Alves
 ,09/10,LaLiga,4,22/09/2009,A,FC Barcelona,Racing Santander,01:04,RW,23,00:02,Chute com o pe esquerdo,Xavi
 ,09/10,LaLiga,4,22/09/2009,A,FC Barcelona,Racing Santander,01:04,RW,63,00:04,Chute com o pe esquerdo,Xavi
 ,09/10,UEFA Champions League,Group Stage,29/09/2009,H,FC Barcelona,Dynamo Kyiv,02:00,RW,25,01:00,Chute com o pe esquerdo,Andres Iniesta
@@ -99,7 +99,7 @@
 ,09/10,LaLiga,17,10/01/2010,A,FC Barcelona,CD Tenerife,00:05,RW,45,00:03,Chute com o pe direito,Bojan Krkic
 ,09/10,LaLiga,17,10/01/2010,A,FC Barcelona,CD Tenerife,00:05,RW,75,00:04,Chute com o pe esquerdo,Bojan Krkic
 ,09/10,LaLiga,18,16/01/2010,H,FC Barcelona,Sevilla FC,04:00,RW,85,03:00,Chute com o pe esquerdo,Dani Alves
-,09/10,LaLiga,18,16/01/2010,H,FC Barcelona,Sevilla FC,04:00,RW,90+1,04:00,Chute com o pe esquerdo,Eric Abidal
+,09/10,LaLiga,18,16/01/2010,H,FC Barcelona,Sevilla FC,04:00,RW,90,04:00,Chute com o pe esquerdo,Eric Abidal
 ,09/10,LaLiga,19,23/01/2010,A,FC Barcelona,Real Valladolid CF,00:03,RW,54,00:03,Chute com o pe esquerdo,Zlatan Ibrahimovic
 ,09/10,LaLiga,21,06/02/2010,H,FC Barcelona,Getafe CF,02:01,RW,7,01:00,Chute com o pe esquerdo,Yaya Toure
 ,09/10,LaLiga,24,27/02/2010,H,FC Barcelona,Malaga CF,02:01,RW,84,02:01,Chute com o pe direito,Dani Alves
@@ -122,20 +122,20 @@
 ,09/10,LaLiga,35,01/05/2010,A,FC Barcelona,Villarreal CF,01:04,RW,18,00:01,Chute com o pe esquerdo,Xavi
 ,09/10,LaLiga,35,01/05/2010,A,FC Barcelona,Villarreal CF,01:04,RW,87,01:04,Chute com o pe esquerdo,Dani Alves
 ,09/10,LaLiga,36,04/05/2010,H,FC Barcelona,CD Tenerife,04:01,RW,16,01:00,Chute com o pe direito,Zlatan Ibrahimovic
-,09/10,LaLiga,36,04/05/2010,H,FC Barcelona,CD Tenerife,04:01,RW,90+3,04:01,Chute com o pe direito,Dani Alves
+,09/10,LaLiga,36,04/05/2010,H,FC Barcelona,CD Tenerife,04:01,RW,90,04:01,Chute com o pe direito,Dani Alves
 ,09/10,LaLiga,37,08/05/2010,A,FC Barcelona,Sevilla FC,02:03,RW,5,00:01,Chute com o pe esquerdo,Maxwell
 ,09/10,LaLiga,38,16/05/2010,H,FC Barcelona,Real Valladolid CF,04:00,RW,61,03:00,Chute com o pe direito,Yaya Toure
 ,09/10,LaLiga,38,16/05/2010,H,FC Barcelona,Real Valladolid CF,04:00,RW,74,04:00,Chute com o pe esquerdo,Yaya Toure
 ,10/11,Supercopa,final,21/08/2010,H,FC Barcelona,Sevilla FC,04:00,RW,25,02:00,Chute com o pe esquerdo,Xavi
 ,10/11,Supercopa,final,21/08/2010,H,FC Barcelona,Sevilla FC,04:00,RW,43,03:00,Chute com o pe direito,Dani Alves
-,10/11,Supercopa,final,21/08/2010,H,FC Barcelona,Sevilla FC,04:00,RW,90+1,04:00,Chute com o pe esquerdo,Andres Iniesta
+,10/11,Supercopa,final,21/08/2010,H,FC Barcelona,Sevilla FC,04:00,RW,90,04:00,Chute com o pe esquerdo,Andres Iniesta
 ,10/11,LaLiga,1,29/08/2010,A,FC Barcelona,Racing Santander,00:03,RW,3,00:01,Chute com o pe esquerdo,Andres Iniesta
 ,10/11,UEFA Champions League,Group Stage,14/09/2010,H,FC Barcelona,Panathinaikos Athens,05:01,CF,22,01:01,Chute com o pe esquerdo,Xavi
 ,10/11,UEFA Champions League,Group Stage,14/09/2010,H,FC Barcelona,Panathinaikos Athens,05:01,CF,45,03:01,Chute com o pe esquerdo,Pedro
 ,10/11,LaLiga,3,19/09/2010,A,FC Barcelona,Atletico de Madrid,01:02,CF,12,00:01,Chute com o pe esquerdo,Pedro
 ,10/11,LaLiga,6,03/10/2010,H,FC Barcelona,RCD Mallorca,01:01,CF,20,01:00,Chute com o pe esquerdo,Pedro
 ,10/11,UEFA Champions League,Group Stage,20/10/2010,H,FC Barcelona,FC Copenhagen,02:00,CF,18,01:00,Chute com o pe esquerdo,Andres Iniesta
-,10/11,UEFA Champions League,Group Stage,20/10/2010,H,FC Barcelona,FC Copenhagen,02:00,CF,90+1,02:00,Chute com o pe esquerdo,Eric Abidal
+,10/11,UEFA Champions League,Group Stage,20/10/2010,H,FC Barcelona,FC Copenhagen,02:00,CF,90,02:00,Chute com o pe esquerdo,Eric Abidal
 ,10/11,LaLiga,8,23/10/2010,A,FC Barcelona,Real Zaragoza,00:02,CF,41,00:01,Chute com o pe esquerdo,David Villa
 ,10/11,LaLiga,8,23/10/2010,A,FC Barcelona,Real Zaragoza,00:02,CF,65,00:02,Chute com o pe esquerdo,
 ,10/11,LaLiga,9,30/10/2010,H,FC Barcelona,Sevilla FC,05:00,RW,4,01:00,Chute com o pe esquerdo,
@@ -172,7 +172,7 @@
 ,10/11,UEFA Champions League,last 16,08/03/2011,H,FC Barcelona,Arsenal FC,03:01,RW,49,01:00,Chute com o pe esquerdo,Andres Iniesta
 ,10/11,UEFA Champions League,last 16,08/03/2011,H,FC Barcelona,Arsenal FC,03:01,RW,72,03:01,Penalti,
 ,10/11,LaLiga,31,09/04/2011,H,FC Barcelona,UD Almera,03:01,CF,52,01:01,Penalti,
-,10/11,LaLiga,31,09/04/2011,H,FC Barcelona,UD Almera,03:01,CF,90+1,03:01,Chute com o pe esquerdo,Seydou Keita
+,10/11,LaLiga,31,09/04/2011,H,FC Barcelona,UD Almera,03:01,CF,90,03:01,Chute com o pe esquerdo,Seydou Keita
 ,10/11,UEFA Champions League,Quarter-Finals,12/04/2011,A,FC Barcelona,Shakhtar Donetsk,00:01,CF,42,00:01,Chute com o pe esquerdo,Dani Alves
 ,10/11,LaLiga,32,16/04/2011,A,FC Barcelona,Real Madrid,01:01,CF,53,00:01,Penalti,
 ,10/11,LaLiga,33,23/04/2011,H,FC Barcelona,CA Osasuna,02:00,CF,87,02:00,Chute com o pe direito,Dani Alves
@@ -190,7 +190,7 @@
 ,11-Dec,LaLiga,4,17/09/2011,H,FC Barcelona,CA Osasuna,08:00,CF,79,08:00,Chute com o pe esquerdo,Cesc Fabregas
 ,11-Dec,LaLiga,6,24/09/2011,H,FC Barcelona,Atletico de Madrid,05:00,CF,26,03:00,Chute com o pe esquerdo,Pedro
 ,11-Dec,LaLiga,6,24/09/2011,H,FC Barcelona,Atletico de Madrid,05:00,CF,78,04:00,Chute com o pe esquerdo,Dani Alves
-,11-Dec,LaLiga,6,24/09/2011,H,FC Barcelona,Atletico de Madrid,05:00,CF,90+1,05:00,Chute com o pe esquerdo,David Villa
+,11-Dec,LaLiga,6,24/09/2011,H,FC Barcelona,Atletico de Madrid,05:00,CF,90,05:00,Chute com o pe esquerdo,David Villa
 ,11-Dec,UEFA Champions League,Group Stage,28/09/2011,A,FC Barcelona,BATE Borisov,00:05,CF,38,00:03,Cabecada,
 ,11-Dec,UEFA Champions League,Group Stage,28/09/2011,A,FC Barcelona,BATE Borisov,00:05,CF,56,00:04,Chute com o pe esquerdo,Dani Alves
 ,11-Dec,LaLiga,8,15/10/2011,H,FC Barcelona,Racing Santander,03:00,CF,11,01:00,Chute com o pe direito,Andres Iniesta
@@ -199,8 +199,8 @@
 ,11-Dec,LaLiga,11,29/10/2011,H,FC Barcelona,RCD Mallorca,05:00,CF,21,02:00,Chute com o pe direito,Adriano
 ,11-Dec,LaLiga,11,29/10/2011,H,FC Barcelona,RCD Mallorca,05:00,CF,30,03:00,Chute com o pe esquerdo,Dani Alves
 ,11-Dec,UEFA Champions League,Group Stage,01/11/2011,A,FC Barcelona,FC Viktoria Plzen,00:04,CF,24,00:01,Penalti,
-,11-Dec,UEFA Champions League,Group Stage,01/11/2011,A,FC Barcelona,FC Viktoria Plzen,00:04,CF,45+2,00:02,Chute com o pe esquerdo,Adriano
-,11-Dec,UEFA Champions League,Group Stage,01/11/2011,A,FC Barcelona,FC Viktoria Plzen,00:04,CF,90+2,00:04,Chute com o pe esquerdo,Gerard Pique
+,11-Dec,UEFA Champions League,Group Stage,01/11/2011,A,FC Barcelona,FC Viktoria Plzen,00:04,CF,45,00:02,Chute com o pe esquerdo,Adriano
+,11-Dec,UEFA Champions League,Group Stage,01/11/2011,A,FC Barcelona,FC Viktoria Plzen,00:04,CF,90,00:04,Chute com o pe esquerdo,Gerard Pique
 ,11-Dec,LaLiga,12,06/11/2011,A,FC Barcelona,Athletic Bilbao,02:02,CF,90,02:02,Chute com o pe esquerdo,
 ,11-Dec,LaLiga,13,19/11/2011,H,FC Barcelona,Real Zaragoza,04:00,CF,43,02:00,Chute com o pe direito,Cesc Fabregas
 ,11-Dec,UEFA Champions League,Group Stage,23/11/2011,A,FC Barcelona,AC Milan,02:03,SS,31,01:02,Penalti,
@@ -269,7 +269,7 @@
 ,Dec-13,LaLiga,8,20/10/2012,A,FC Barcelona,Deportivo de La Coruaa,04:05,CF,76,03:05,Chute com o pe esquerdo,Xavi
 ,Dec-13,LaLiga,9,27/10/2012,A,FC Barcelona,Rayo Vallecano,00:05,CF,48,00:02,Chute com o pe esquerdo,Marta Montoya
 ,Dec-13,LaLiga,9,27/10/2012,A,FC Barcelona,Rayo Vallecano,00:05,CF,89,00:05,Chute com o pe direito,Cesc Fabregas
-,Dec-13,UEFA Champions League,Group Stage,07/11/2012,A,FC Barcelona,Celtic FC,02:01,CF,90+1,02:01,Toque sutil,
+,Dec-13,UEFA Champions League,Group Stage,07/11/2012,A,FC Barcelona,Celtic FC,02:01,CF,90,02:01,Toque sutil,
 ,Dec-13,LaLiga,11,11/11/2012,A,FC Barcelona,RCD Mallorca,02:04,CF,43,00:02,Chute com o pe esquerdo,Sergio Busquets
 ,Dec-13,LaLiga,11,11/11/2012,A,FC Barcelona,RCD Mallorca,02:04,CF,70,02:04,Chute com o pe esquerdo,Alexis Sanchez
 ,Dec-13,LaLiga,12,17/11/2012,H,FC Barcelona,Real Zaragoza,03:01,CF,15,01:00,Chute com o pe esquerdo,Jordi Alba
@@ -327,7 +327,7 @@
 ,13/14,UEFA Champions League,Group Stage,06/11/2013,H,FC Barcelona,AC Milan,03:01,CF,30,01:00,Penalti,
 ,13/14,UEFA Champions League,Group Stage,06/11/2013,H,FC Barcelona,AC Milan,03:01,CF,83,03:01,Chute com o pe esquerdo,Cesc Fabregas
 ,13/14,Copa del Rey,last 16,08/01/2014,H,FC Barcelona,Getafe CF,04:00,CF,90,03:00,Chute com o pe esquerdo,Marta Montoya
-,13/14,Copa del Rey,last 16,08/01/2014,H,FC Barcelona,Getafe CF,04:00,CF,90+2,04:00,Chute com o pe esquerdo,Alex Song
+,13/14,Copa del Rey,last 16,08/01/2014,H,FC Barcelona,Getafe CF,04:00,CF,90,04:00,Chute com o pe esquerdo,Alex Song
 ,13/14,Copa del Rey,last 16,16/01/2014,A,FC Barcelona,Getafe CF,00:02,CF,43,00:01,Chute com o pe direito,Cristian Tello
 ,13/14,Copa del Rey,last 16,16/01/2014,A,FC Barcelona,Getafe CF,00:02,CF,63,00:02,Chute com o pe esquerdo,
 ,13/14,LaLiga,22,01/02/2014,H,FC Barcelona,Valencia CF,02:03,CF,54,02:02,Penalti,
@@ -370,7 +370,7 @@
 ,14/15,UEFA Champions League,Group Stage,25/11/2014,A,FC Barcelona,APOEL Nicosia,00:04,CF,38,00:02,Chute com o pe direito,Rafinha
 ,14/15,UEFA Champions League,Group Stage,25/11/2014,A,FC Barcelona,APOEL Nicosia,00:04,CF,58,00:03,Chute com o pe direito,Dani Alves
 ,14/15,UEFA Champions League,Group Stage,25/11/2014,A,FC Barcelona,APOEL Nicosia,00:04,CF,87,00:04,Chute com o pe direito,Pedro
-,14/15,LaLiga,14,07/12/2014,H,FC Barcelona,RCD Espanyol Barcelona,05:01,RW,45+1,01:01,Chute com o pe esquerdo,Xavi
+,14/15,LaLiga,14,07/12/2014,H,FC Barcelona,RCD Espanyol Barcelona,05:01,RW,45,01:01,Chute com o pe esquerdo,Xavi
 ,14/15,LaLiga,14,07/12/2014,H,FC Barcelona,RCD Espanyol Barcelona,05:01,RW,50,02:01,Chute com o pe direito,Luis Suarez
 ,14/15,LaLiga,14,07/12/2014,H,FC Barcelona,RCD Espanyol Barcelona,05:01,RW,81,05:01,Chute com o pe direito,Pedro
 ,14/15,UEFA Champions League,Group Stage,10/12/2014,H,FC Barcelona,Paris Saint-Germain,03:01,AM,19,01:01,Chute com o pe direito,Luis Suarez
@@ -398,7 +398,7 @@
 ,14/15,LaLiga,27,14/03/2015,A,FC Barcelona,SD Eibar,00:02,RW,55,00:02,Cabecada,Ivan Rakitic
 ,14/15,LaLiga,30,08/04/2015,H,FC Barcelona,UD Almera,04:00,RW,33,01:00,Chute com o pe esquerdo,Marc Bartra
 ,14/15,LaLiga,31,11/04/2015,A,FC Barcelona,Sevilla FC,02:02,RW,15,00:01,Chute com o pe esquerdo,Neymar
-,14/15,LaLiga,32,18/04/2015,H,FC Barcelona,Valencia CF,02:00,RW,90+4,02:00,Chute com o pe esquerdo,
+,14/15,LaLiga,32,18/04/2015,H,FC Barcelona,Valencia CF,02:00,RW,90,02:00,Chute com o pe esquerdo,
 ,14/15,LaLiga,33,25/04/2015,A,FC Barcelona,RCD Espanyol Barcelona,00:02,RW,25,00:02,Chute com o pe esquerdo,Luis Suarez
 ,14/15,LaLiga,34,28/04/2015,H,FC Barcelona,Getafe CF,06:00,RW,9,01:00,Penalti,
 ,14/15,LaLiga,34,28/04/2015,H,FC Barcelona,Getafe CF,06:00,RW,47,06:00,Chute com o pe esquerdo,Luis Suarez
@@ -419,7 +419,7 @@
 ,15/16,LaLiga,4,20/09/2015,H,FC Barcelona,Levante UD,04:01,AM,90,04:01,Chute com o pe esquerdo,Marc Bartra
 ,15/16,UEFA Champions League,Group Stage,24/11/2015,H,FC Barcelona,AS Roma,06:01,RW,18,02:00,Chute com o pe esquerdo,Luis Suarez
 ,15/16,UEFA Champions League,Group Stage,24/11/2015,H,FC Barcelona,AS Roma,06:01,RW,60,05:00,Toque sutil,
-,15/16,LaLiga,13,28/11/2015,H,FC Barcelona,Real Sociedad,04:00,RW,90+1,04:00,Chute com o pe esquerdo,Neymar
+,15/16,LaLiga,13,28/11/2015,H,FC Barcelona,Real Sociedad,04:00,RW,90,04:00,Chute com o pe esquerdo,Neymar
 ,15/16,UEFA Champions League,Group Stage,09/12/2015,A,FC Barcelona,Bayer 04 Leverkusen,01:01,CF,20,00:01,Chute com o pe direito,Ivan Rakitic
 ,15/16,LaLiga,15,12/12/2015,H,FC Barcelona,Deportivo de La Coruaa,02:02,RW,39,01:00,Cobranca de falta,
 ,15/16,FIFA Club World Cup,Final,20/12/2015,A,FC Barcelona,CA River Plate,00:03,RW,36,00:01,Chute com o pe esquerdo,Neymar
@@ -465,7 +465,7 @@
 ,16/17,UEFA Champions League,Group Stage,19/10/2016,H,FC Barcelona,Manchester City,04:00,RW,61,02:00,Chute com o pe esquerdo,Andres Iniesta
 ,16/17,UEFA Champions League,Group Stage,19/10/2016,H,FC Barcelona,Manchester City,04:00,RW,69,03:00,Chute com o pe esquerdo,Luis Suarez
 ,16/17,LaLiga,9,22/10/2016,A,FC Barcelona,Valencia CF,02:03,RW,22,00:01,Chute com o pe esquerdo,Ivan Rakitic
-,16/17,LaLiga,9,22/10/2016,A,FC Barcelona,Valencia CF,02:03,RW,90+4,02:03,Penalti,
+,16/17,LaLiga,9,22/10/2016,A,FC Barcelona,Valencia CF,02:03,RW,90,02:03,Penalti,
 ,16/17,UEFA Champions League,Group Stage,01/11/2016,A,FC Barcelona,Manchester City,03:01,RW,21,00:01,Chute com o pe esquerdo,Neymar
 ,16/17,LaLiga,11,06/11/2016,A,FC Barcelona,Sevilla FC,01:02,RW,43,01:01,Chute com o pe esquerdo,Neymar
 ,16/17,UEFA Champions League,Group Stage,23/11/2016,A,FC Barcelona,Celtic FC,00:02,RW,24,00:01,Chute com o pe esquerdo,Neymar
@@ -473,7 +473,7 @@
 ,16/17,LaLiga,13,27/11/2016,A,FC Barcelona,Real Sociedad,01:01,RW,59,01:01,Chute com o pe esquerdo,Neymar
 ,16/17,UEFA Champions League,Group Stage,06/12/2016,H,FC Barcelona,Borussia MÃ¶nchengladbach,04:00,RW,16,01:00,Chute com o pe esquerdo,Arda Turan
 ,16/17,LaLiga,15,10/12/2016,A,FC Barcelona,CA Osasuna,00:03,RW,72,00:02,Chute com o pe esquerdo,Jordi Alba
-,16/17,LaLiga,15,10/12/2016,A,FC Barcelona,CA Osasuna,00:03,RW,90+2,00:03,Chute com o pe esquerdo,Sergio Busquets
+,16/17,LaLiga,15,10/12/2016,A,FC Barcelona,CA Osasuna,00:03,RW,90,00:03,Chute com o pe esquerdo,Sergio Busquets
 ,16/17,LaLiga,16,18/12/2016,H,FC Barcelona,RCD Espanyol Barcelona,04:01,RW,90,04:01,Chute com o pe esquerdo,Luis Suarez
 ,16/17,Copa del Rey,last 16,05/01/2017,A,FC Barcelona,Athletic Bilbao,02:01,RW,52,02:01,Cobranca de falta,
 ,16/17,LaLiga,17,08/01/2017,A,FC Barcelona,Villarreal CF,01:01,RW,90,01:01,Cobranca de falta,
@@ -498,13 +498,13 @@
 ,16/17,LaLiga,32,15/04/2017,H,FC Barcelona,Real Sociedad,03:02,RW,17,01:00,Chute com o pe esquerdo,Luis Suarez
 ,16/17,LaLiga,32,15/04/2017,H,FC Barcelona,Real Sociedad,03:02,RW,37,02:00,Toque sutil,
 ,16/17,LaLiga,33,23/04/2017,A,FC Barcelona,Real Madrid,02:03,RW,33,01:01,Chute com o pe esquerdo,Ivan Rakitic
-,16/17,LaLiga,33,23/04/2017,A,FC Barcelona,Real Madrid,02:03,RW,90+2,02:03,Chute com o pe esquerdo,Jordi Alba
+,16/17,LaLiga,33,23/04/2017,A,FC Barcelona,Real Madrid,02:03,RW,90,02:03,Chute com o pe esquerdo,Jordi Alba
 ,16/17,LaLiga,34,26/04/2017,H,FC Barcelona,CA Osasuna,07:01,AM,12,01:00,Chute com o pe esquerdo,
 ,16/17,LaLiga,34,26/04/2017,H,FC Barcelona,CA Osasuna,07:01,AM,61,04:01,Chute com o pe esquerdo,Ivan Rakitic
 ,16/17,LaLiga,36,06/05/2017,H,FC Barcelona,Villarreal CF,04:01,RW,45,02:01,Chute com o pe esquerdo,Sergio Busquets
 ,16/17,LaLiga,36,06/05/2017,H,FC Barcelona,Villarreal CF,04:01,RW,82,04:01,Penalti,
 ,16/17,LaLiga,38,21/05/2017,H,FC Barcelona,SD Eibar,04:02,RW,75,03:02,Penalti,
-,16/17,LaLiga,38,21/05/2017,H,FC Barcelona,SD Eibar,04:02,RW,90+2,04:02,Chute com o pe direito,
+,16/17,LaLiga,38,21/05/2017,H,FC Barcelona,SD Eibar,04:02,RW,90,04:02,Chute com o pe direito,
 ,16/17,Copa del Rey,Final,27/05/2017,H,FC Barcelona,Deportivo Alaves,03:01,RW,30,01:00,Chute com o pe esquerdo,Neymar
 ,17/18,Supercopa,final,13/08/2017,H,FC Barcelona,Real Madrid,01:03,RW,77,01:01,Penalti,
 ,17/18,LaLiga,2,26/08/2017,A,FC Barcelona,Deportivo Alaves,00:02,CF,55,00:01,Chute com o pe esquerdo,Jordi Alba
@@ -552,7 +552,7 @@
 ,17/18,LaLiga,36,06/05/2018,H,FC Barcelona,Real Madrid,02:02,SS,52,02:01,Chute com o pe esquerdo,Luis Suarez
 ,17/18,LaLiga,34,09/05/2018,H,FC Barcelona,Villarreal CF,05:01,CF,45,03:00,Chute com o pe esquerdo,Andres Iniesta
 ,18/19,LaLiga,1,18/08/2018,H,FC Barcelona,Deportivo Alaves,03:00,RW,64,01:00,Cobranca de falta,
-,18/19,LaLiga,1,18/08/2018,H,FC Barcelona,Deportivo Alaves,03:00,RW,90+2,03:00,Chute com o pe esquerdo,Luis Suarez
+,18/19,LaLiga,1,18/08/2018,H,FC Barcelona,Deportivo Alaves,03:00,RW,90,03:00,Chute com o pe esquerdo,Luis Suarez
 ,18/19,LaLiga,3,02/09/2018,H,FC Barcelona,SD Huesca,08:02,RW,16,01:01,Chute com o pe direito,Ivan Rakitic
 ,18/19,LaLiga,3,02/09/2018,H,FC Barcelona,SD Huesca,08:02,RW,61,06:02,Chute com o pe esquerdo,Philippe Coutinho
 ,18/19,UEFA Champions League,Group Stage,18/09/2018,H,FC Barcelona,PSV Eindhoven,04:00,RW,31,01:00,Cobranca de falta,
@@ -564,7 +564,7 @@
 ,18/19,LaLiga,8,07/10/2018,A,FC Barcelona,Valencia CF,01:01,RW,23,01:01,Chute com o pe esquerdo,Luis Suarez
 ,18/19,LaLiga,9,20/10/2018,H,FC Barcelona,Sevilla FC,04:02,RW,12,02:00,Chute com o pe esquerdo,Luis Suarez
 ,18/19,LaLiga,12,11/11/2018,H,FC Barcelona,Real Betis Balompie,03:04,SS,68,01:02,Penalti,
-,18/19,LaLiga,12,11/11/2018,H,FC Barcelona,Real Betis Balompie,03:04,SS,90+4,03:04,Chute com o pe esquerdo,Arturo Vidal
+,18/19,LaLiga,12,11/11/2018,H,FC Barcelona,Real Betis Balompie,03:04,SS,90,03:04,Chute com o pe esquerdo,Arturo Vidal
 ,18/19,UEFA Champions League,Group Stage,28/11/2018,A,FC Barcelona,PSV Eindhoven,01:02,CF,61,00:01,Chute com o pe esquerdo,Ousmane Dembele
 ,18/19,LaLiga,15,08/12/2018,A,FC Barcelona,RCD Espanyol Barcelona,00:04,RW,17,00:01,Cobranca de falta,
 ,18/19,LaLiga,15,08/12/2018,A,FC Barcelona,RCD Espanyol Barcelona,00:04,RW,65,00:04,Cobranca de falta,
@@ -575,9 +575,9 @@
 ,18/19,LaLiga,18,06/01/2019,A,FC Barcelona,Getafe CF,01:02,RW,20,00:01,Chute com o pe esquerdo,
 ,18/19,LaLiga,19,13/01/2019,H,FC Barcelona,SD Eibar,03:00,RW,53,02:00,Chute com o pe esquerdo,Luis Suarez
 ,18/19,Copa del Rey,last 16,17/01/2019,H,FC Barcelona,Levante UD,03:00,CF,54,03:00,Chute com o pe esquerdo,Nelson Semedo
-,18/19,LaLiga,20,20/01/2019,H,FC Barcelona,CD Leganes,03:01,SS,90+2,03:01,Chute com o pe direito,Jordi Alba
+,18/19,LaLiga,20,20/01/2019,H,FC Barcelona,CD Leganes,03:01,SS,90,03:01,Chute com o pe direito,Jordi Alba
 ,18/19,LaLiga,21,27/01/2019,A,FC Barcelona,Girona FC,00:02,RW,69,00:02,Chute com o pe esquerdo,Jordi Alba
-,18/19,Copa del Rey,Quarter-Finals,30/01/2019,H,FC Barcelona,Sevilla FC,06:01,RW,90+2,06:01,Chute com o pe esquerdo,Jordi Alba
+,18/19,Copa del Rey,Quarter-Finals,30/01/2019,H,FC Barcelona,Sevilla FC,06:01,RW,90,06:01,Chute com o pe esquerdo,Jordi Alba
 ,18/19,LaLiga,22,02/02/2019,H,FC Barcelona,Valencia CF,02:02,RW,39,01:02,Penalti,
 ,18/19,LaLiga,22,02/02/2019,H,FC Barcelona,Valencia CF,02:02,RW,64,02:02,Chute com o pe esquerdo,Arturo Vidal
 ,18/19,LaLiga,24,16/02/2019,H,FC Barcelona,Real Valladolid CF,01:00,RW,43,01:00,Penalti,
@@ -588,7 +588,7 @@
 ,18/19,UEFA Champions League,last 16,13/03/2019,H,FC Barcelona,Olympique Lyon,05:01,RW,18,01:00,Penalti,
 ,18/19,UEFA Champions League,last 16,13/03/2019,H,FC Barcelona,Olympique Lyon,05:01,RW,78,03:01,Chute com o pe direito,Sergio Busquets
 ,18/19,LaLiga,28,17/03/2019,A,FC Barcelona,Real Betis Balompie,01:04,SS,18,00:01,Cobranca de falta,
-,18/19,LaLiga,28,17/03/2019,A,FC Barcelona,Real Betis Balompie,01:04,SS,45+2,00:02,Chute com o pe esquerdo,Luis Suarez
+,18/19,LaLiga,28,17/03/2019,A,FC Barcelona,Real Betis Balompie,01:04,SS,45,00:02,Chute com o pe esquerdo,Luis Suarez
 ,18/19,LaLiga,28,17/03/2019,A,FC Barcelona,Real Betis Balompie,01:04,SS,85,01:04,Chute com o pe esquerdo,Ivan Rakitic
 ,18/19,LaLiga,29,30/03/2019,H,FC Barcelona,RCD Espanyol Barcelona,02:00,RW,71,01:00,Cobranca de falta,
 ,18/19,LaLiga,29,30/03/2019,H,FC Barcelona,RCD Espanyol Barcelona,02:00,RW,89,02:00,Chute com o pe esquerdo,Malcom
@@ -609,7 +609,7 @@
 ,19/20,LaLiga,11,29/10/2019,H,FC Barcelona,Real Valladolid CF,05:01,RW,75,04:01,Chute com o pe esquerdo,Ivan Rakitic
 ,19/20,LaLiga,12,02/11/2019,A,FC Barcelona,Levante UD,03:01,RW,38,00:01,Penalti,
 ,19/20,LaLiga,13,09/11/2019,H,FC Barcelona,Celta de Vigo,04:01,RW,23,01:00,Penalti,
-,19/20,LaLiga,13,09/11/2019,H,FC Barcelona,Celta de Vigo,04:01,RW,45+1,02:01,Cobranca de falta,
+,19/20,LaLiga,13,09/11/2019,H,FC Barcelona,Celta de Vigo,04:01,RW,45,02:01,Cobranca de falta,
 ,19/20,LaLiga,13,09/11/2019,H,FC Barcelona,Celta de Vigo,04:01,RW,48,03:01,Cobranca de falta,
 ,19/20,UEFA Champions League,Group Stage,27/11/2019,H,FC Barcelona,Borussia Dortmund,03:01,RW,33,02:00,Chute com o pe esquerdo,Luis Suarez
 ,19/20,LaLiga,15,01/12/2019,A,FC Barcelona,Atletico de Madrid,00:01,RW,86,00:01,Chute com o pe esquerdo,Luis Suarez
@@ -626,7 +626,7 @@
 ,19/20,LaLiga,25,22/02/2020,H,FC Barcelona,SD Eibar,05:00,SS,40,03:00,Chute com o pe esquerdo,
 ,19/20,LaLiga,25,22/02/2020,H,FC Barcelona,SD Eibar,05:00,SS,87,04:00,Chute com o pe esquerdo,
 ,19/20,LaLiga,27,07/03/2020,H,FC Barcelona,Real Sociedad,01:00,CF,81,01:00,Penalti,
-,19/20,LaLiga,28,13/06/2020,A,FC Barcelona,RCD Mallorca,00:04,RW,90+3,00:04,Chute com o pe direito,Luis Suarez
+,19/20,LaLiga,28,13/06/2020,A,FC Barcelona,RCD Mallorca,00:04,RW,90,00:04,Chute com o pe direito,Luis Suarez
 ,19/20,LaLiga,29,16/06/2020,H,FC Barcelona,CD Leganes,02:00,RW,69,02:00,Penalti,
 ,19/20,LaLiga,33,30/06/2020,H,FC Barcelona,Atletico de Madrid,02:02,SS,50,02:01,Penalti,
 ,19/20,LaLiga,37,16/07/2020,H,FC Barcelona,CA Osasuna,01:02,RW,62,01:01,Cobranca de falta,
@@ -635,13 +635,13 @@
 ,19/20,UEFA Champions League,last 16,08/08/2020,H,FC Barcelona,SSC Napoli,03:01,SS,23,02:00,Chute com o pe esquerdo,
 ,20/21,LaLiga,3,27/09/2020,H,FC Barcelona,Villarreal CF,04:00,CF,35,03:00,Penalti,
 ,20/21,UEFA Champions League,Group Stage,20/10/2020,H,FC Barcelona,Ferencvarosi TC,05:01,CF,27,01:00,Penalti,
-,20/21,UEFA Champions League,Group Stage,28/10/2020,A,FC Barcelona,Juventus FC,00:02,CF,90+1,00:02,Penalti,
+,20/21,UEFA Champions League,Group Stage,28/10/2020,A,FC Barcelona,Juventus FC,00:02,CF,90,00:02,Penalti,
 ,20/21,UEFA Champions League,Group Stage,04/11/2020,H,FC Barcelona,Dynamo Kyiv,02:01,RW,5,01:00,Penalti,
 ,20/21,LaLiga,9,07/11/2020,H,FC Barcelona,Real Betis Balompie,05:02,CF,61,03:01,Penalti,
 ,20/21,LaLiga,9,07/11/2020,H,FC Barcelona,Real Betis Balompie,05:02,CF,82,04:02,Chute com o pe esquerdo,Sergi Roberto
 ,20/21,LaLiga,11,29/11/2020,H,FC Barcelona,CA Osasuna,04:00,RW,73,04:00,Chute com o pe esquerdo,Francisco Trincao
 ,20/21,LaLiga,13,13/12/2020,H,FC Barcelona,Levante UD,01:00,CF,76,01:00,Chute com o pe esquerdo,Frenkie de Jong
-,20/21,LaLiga,14,19/12/2020,H,FC Barcelona,Valencia CF,02:02,CF,45+4,01:01,Cabecada,
+,20/21,LaLiga,14,19/12/2020,H,FC Barcelona,Valencia CF,02:02,CF,45,01:01,Cabecada,
 ,20/21,LaLiga,15,22/12/2020,A,FC Barcelona,Real Valladolid CF,00:03,AM,65,00:03,Chute com o pe esquerdo,Pedri
 ,20/21,LaLiga,2,06/01/2021,A,FC Barcelona,Athletic Bilbao,02:03,CF,38,01:02,Chute com o pe esquerdo,Pedri
 ,20/21,LaLiga,2,06/01/2021,A,FC Barcelona,Athletic Bilbao,02:03,CF,62,01:03,Chute com o pe esquerdo,Antoine Griezmann
@@ -650,7 +650,7 @@
 ,20/21,Copa del Rey,Round of 16,27/01/2021,A,FC Barcelona,Rayo Vallecano,01:02,CF,69,01:01,Chute com o pe esquerdo,Antoine Griezmann
 ,20/21,LaLiga,21,31/01/2021,H,FC Barcelona,Athletic Bilbao,02:01,CF,20,01:00,Cobranca de falta,
 ,20/21,LaLiga,22,07/02/2021,A,FC Barcelona,Real Betis Balompie,02:03,CF,59,01:01,Chute com o pe esquerdo,Ousmane Dembele
-,20/21,LaLiga,23,13/02/2021,H,FC Barcelona,Deportivo Alaves,05:01,CF,45+1,02:00,Chute com o pe esquerdo,Sergio Busquets
+,20/21,LaLiga,23,13/02/2021,H,FC Barcelona,Deportivo Alaves,05:01,CF,45,02:00,Chute com o pe esquerdo,Sergio Busquets
 ,20/21,LaLiga,23,13/02/2021,H,FC Barcelona,Deportivo Alaves,05:01,CF,75,04:01,Chute com o pe esquerdo,Antoine Griezmann
 ,20/21,UEFA Champions League,last 16,16/02/2021,H,FC Barcelona,Paris Saint-Germain,01:04,CF,27,01:00,Penalti,
 ,20/21,LaLiga,24,21/02/2021,H,FC Barcelona,Cadiz CF,01:01,CF,32,01:00,Penalti,
@@ -700,6 +700,6 @@
 ,22/23,Ligue 1,18,11/01/2023,H,Paris Saint-Germain,Angers SCO,2:0,AM,72,2:0,Chute com o pe direito,Nordi Mukiele
 ,22/23,Ligue 1,21,01/02/2023,A,Paris Saint-Germain,Montpellier HSC,1:3,SS,72,0:2,Chute com o pe esquerdo,Fabián Ruiz
 ,22/23,Ligue 1,22,04/02/2023,H,Paris Saint-Germain,FC Toulouse,2:1,SS,58,2:1,Chute com o pe esquerdo,Achraf Hakimi
-,22/23,Ligue 1,24,19/02/2023,H,Paris Saint-Germain,LOSC Lille,4:3,CF,90+5,4:3,Cobranca de falta,
+,22/23,Ligue 1,24,19/02/2023,H,Paris Saint-Germain,LOSC Lille,4:3,CF,90,4:3,Cobranca de falta,
 ,22/23,Ligue 1,25,26/02/2023,A,Paris Saint-Germain,Olympique Marseille,0:3,CF,29,0:2,Chute com o pe direito,Kylian Mbappe
 ,22/23,Ligue 1,26,04/03/2023,H,Paris Saint-Germain,FC Nantes,4:2,CF,12,1:0,Chute com o pe esquerdo,
