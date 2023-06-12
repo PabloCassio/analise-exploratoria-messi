@@ -22,8 +22,8 @@ Esse projeto contém análises de dados exploratória a respeito dos gols marcad
 # Etapas Realizados
 
 - [x] [**Projeto**](https://github.com/PabloCassio/analise-exploratoria-messi/blob/main/messi-eda/messi_analise_exploratoria.ipynb)
-- [x] **Relatório**(https://github.com/PabloCassio/analise-exploratoria-messi/blob/main/messi-eda/messi_analise_exploratoria.ipynb)
-- [x] **Apresentação**(https://youtube.com)
+- [x] [**Relatório**](https://github.com/PabloCassio/analise-exploratoria-messi/blob/main/messi-eda/messi_analise_exploratoria.ipynb)
+- [x] [**Apresentação**](https://youtube.com)
 
 
 # Tecnologias Usadas
