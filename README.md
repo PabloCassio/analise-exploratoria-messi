@@ -7,10 +7,6 @@
 
 Esse projeto contém análises de dados exploratória a respeito dos gols marcados pelo jogador Lionel Messi.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
-
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
@@ -25,9 +21,9 @@ Esse projeto contém análises de dados exploratória a respeito dos gols marcad
 
 # Etapas Realizados
 
-- [x] **Projeto**
-- [] **Relatório**
-- [] **Apresentação**
+- [x] [**Projeto**](https://github.com/PabloCassio/analise-exploratoria-messi/blob/main/messi-eda/messi_analise_exploratoria.ipynb)
+- [x] **Relatório**(https://github.com/PabloCassio/analise-exploratoria-messi/blob/main/messi-eda/messi_analise_exploratoria.ipynb)
+- [x] **Apresentação**(https://youtube.com)
 
 
 # Tecnologias Usadas
@@ -35,7 +31,10 @@ Esse projeto contém análises de dados exploratória a respeito dos gols marcad
 - [Python](https://www.python.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Jupyter Notebook](https://jupyter.org/)
-
+- [Libre Office](https://pt-br.libreoffice.org/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
 
 # Contribuição
 
